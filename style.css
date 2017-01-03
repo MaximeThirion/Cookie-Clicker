@@ -1,0 +1,15 @@
+button {
+	margin: 2px;
+	height: 60px;
+}
+
+body{
+	margin: 0;
+	align-items: center;
+	vertical-align: middle;
+}
+
+#affichage{
+	margin: 10px;
+	font-size: 2em;
+}
